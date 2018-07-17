@@ -1,1 +1,2 @@
-# board-zerynth-xplained_l21b
+# xplained_saml21b
+
