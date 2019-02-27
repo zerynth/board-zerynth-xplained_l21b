@@ -65,5 +65,14 @@
         "stopbits": 1,
         "dsrdtr": false,
         "rtscts": false
+    },
+    "preferred_uplink_with_jtag":{
+        "probe":"atmel_edbg"
+    },
+    "preferred_register_with_jtag":{
+        "probe":"atmel_edbg"
+    },
+    "preferred_burn_with_jtag":{
+        "probe":"atmel_edbg"
     }
 }
